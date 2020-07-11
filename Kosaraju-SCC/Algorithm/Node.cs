@@ -1,4 +1,4 @@
-﻿namespace Kosaraju_SCC
+﻿namespace Kosaraju_SCC.Algorithm
 {
     public class Node
     {
